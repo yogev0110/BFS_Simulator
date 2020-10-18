@@ -1,4 +1,4 @@
 # BFS_Simulator
-Simulete a run of BFS in a random maze or custom maze using Java, JavaFX, SceneBuilder
-
+Simulate a run of BFS in a random maze or custom maze using Java, JavaFX, SceneBuilder
+Preffered width, heigth and size
 Made by @yogev0110 and @hencohen8198
